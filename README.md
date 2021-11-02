@@ -1,6 +1,8 @@
 # TTFFuzz
 TTFFuzz 实验版本基于项目 [FormatFuzzer](https://github.com/uds-se/FormatFuzzer) 和 [TinyAFL](https://github.com/linhlhq/TinyAFL)
-对于 FormatFuzzer 的二次开发，主要支持结构树的解析和结构树生成 ttf 字体
+对于 FormatFuzzer 的二次开发，主要支持结构树的解析和结构树生成 ttf 字体。
+
+测试用例位于 [ttffuzz/ttffuzz-TinyAFL-MacOS/ttffuzz-TinyAFL-MacOS/Debug/](https://github.com/sunglinl/ttffuzz/tree/master/ttffuzz-TinyAFL-MacOS/ttffuzz-TinyAFL-MacOS/Debug) 目录
 
 ## 实验版本说明
 
